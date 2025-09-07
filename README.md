@@ -16,9 +16,8 @@
 - Learn Python and/or C++
 - Earn my degree
 - Create a front end application that uses a database
+- Be able to master Java
 
 ## *Contact*
 - [LinkedIn](www.linkedin.com/in/neil-soans-a7950329a)
-- Email: nellysoans8@gmail.com 
-
-
+- Email: soans.n01@mymail.sxu.edu 
