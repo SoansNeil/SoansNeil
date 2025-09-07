@@ -2,7 +2,7 @@
 
 #### About me: My name is Neil Soans and I am a college student at Saint Xavier University studying Computer Science. In my free time, I love to play soccer and video games. I hope to better my coding skills to be able to program efficiently.
 
-### *Current Projects*
+## *Current Projects*
 - Linked lists
 - Learning about Databases
 
@@ -10,6 +10,7 @@
 - Java
 - HTML
 - JavaScript
+- Python (Beginner/Learning)
 
 ## *Goals*
 - Learn Python and/or C++
