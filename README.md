@@ -1,16 +1,23 @@
-## Hi there 👋
+# Neil Soans
 
-<!--
-**SoansNeil/SoansNeil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me: My name is Neil Soans and I am a college student at Saint Xavier University studying Computer Science. In my free time, I love to play soccer and video games. I hope to better my coding skills to be able to program efficiently.
 
-Here are some ideas to get you started:
+### **Current Projects** 
+- Linked lists
+- Learning about Databases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## *Technical Skills*
+- Java
+- HTML
+- JavaScript
+
+## *Goals*
+- Learn Python and/or C++
+- Earn my degree
+- Create a front end application that uses a database
+
+## *Contact*
+- [LinkedIn](www.linkedin.com/in/neil-soans-a7950329a)
+- Email: nellysoans8@gmail.com 
+
+
