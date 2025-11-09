@@ -5,6 +5,7 @@
 ## *Current Projects*
 - Linked lists
 - Learning about Databases
+- Creating a web application
 
 ## *Technical Skills*
 - Java
