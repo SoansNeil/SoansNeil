@@ -1,23 +1,22 @@
 # Neil Soans - Computer Science
 
-#### About me: My name is Neil Soans and I am a college student at Saint Xavier University studying Computer Science. In my free time, I love to play soccer and video games. I hope to better my coding skills to be able to program efficiently.
+#### [Portfolio](https://soansneil.github.io)
 
 ## *Current Projects*
-- Linked lists
-- Learning about Databases
-- Creating a web application
+- Loot (Full-stack application)
+- Tomb Venture (Unity Game)
+- Creating freelance websites
 
 ## *Technical Skills*
 - Java
 - HTML
 - JavaScript
 - Python (Beginner/Learning)
+- C#
 
 ## *Goals*
-- Learn Python and/or C++
+- Learn Python
 - Earn my degree
-- Create a front end application that uses a database
-- Be able to master Java
 
 ## *Contact*
 - [LinkedIn](www.linkedin.com/in/neil-soans-a7950329a)
