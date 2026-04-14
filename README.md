@@ -21,4 +21,4 @@
 
 ## *Contact*
 - [LinkedIn](www.linkedin.com/in/neil-soans-a7950329a)
-- Email: soans.n01@mymail.sxu.edu 
+- Email: njsoans@gmail.com
